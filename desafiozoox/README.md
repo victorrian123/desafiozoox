@@ -12,6 +12,10 @@ Log de Exportações: Cada exportação salva um log, que é exibido em uma tabe
 - VsCode
 
 # Instalação
-- Clone o repositório:\
-- Entre na pasta do arquivo\
-- Instale as dependências\
+- Clone o repositório:
+- Entre na pasta do arquivo
+- Instale as dependências
+
+# Codigo
+- Abra a pasta do projeto e rode o comando npm install
+- -Apos finalizar rode npm / yarn run dev
