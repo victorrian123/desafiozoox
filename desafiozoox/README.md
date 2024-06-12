@@ -6,3 +6,12 @@ Visualização de Tabela: As linhas e colunas do CSV são exibidas em formato de
 Exportação de Tabela: Os usuários podem exportar a tabela filtrada para um arquivo CSV.\
 Log de Exportações: Cada exportação salva um log, que é exibido em uma tabela na página inicial.\
 
+# Pré-requisitos
+- Node.js 
+- Vue 
+- VsCode
+
+# Instalação
+- Clone o repositório:\
+- Entre na pasta do arquivo\
+- Instale as dependências\
