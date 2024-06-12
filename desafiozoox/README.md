@@ -18,4 +18,5 @@ Log de Exportações: Cada exportação salva um log, que é exibido em uma tabe
 
 # Codigo
 - Abra a pasta do projeto e rode o comando npm install
-- -Apos finalizar rode npm / yarn run dev
+- Apos finalizar rode npm / yarn run dev
+- Entre na porta e use o sistema
