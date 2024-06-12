@@ -16,7 +16,7 @@ Log de Exportações: Cada exportação salva um log, que é exibido em uma tabe
 - Entre na pasta do arquivo
 - Instale as dependências
 
-# Codigo
+# Código
 - Abra a pasta do projeto e rode o comando npm install
-- Apos finalizar rode npm / yarn run dev
-- Entre na porta e use o sistema
+- Após finalizar rode npm/yarn run dev
+- Acesse a aplicação no navegador, utilizando a URL e utilize o sistema
